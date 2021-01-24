@@ -1,7 +1,6 @@
-async-timeout
-discord.py
-discord.py[voice]
-asyncio
-ffmpeg
-youtube_dl
-pip
+git+https://github.com/Rapptz/discord.py
+git+https://github.com/ytdl-org/youtube-dl
+PyNaCl
+# google-api-python-client
+# pymongo
+# dnspython
