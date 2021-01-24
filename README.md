@@ -15,4 +15,4 @@ Cafetaria Bot is Focused on ⚔ Moderation, 💰 Economy, 🪁 Fun systems.
 *   Will be post soon.  
   
 ## Contributors
-<table><tr><td align="center"><a href="https://github.com/kkrypt0nn"><img src="https://avatars.githubusercontent.com/u/43011723?s=400&u=23cf7560d975a89f750fcc974f4565f6c9cfa810&v=4" width="100px;" alt="kkrypt0nn"/><br /><sub><b>kkrypt0nn</b></sub></a><br /></table>
+<table><tr><td align="center"><a href="https://github.com/kkrypt0nn"><img src="https://avatars.githubusercontent.com/u/43011723?s=400&u=23cf7560d975a89f750fcc974f4565f6c9cfa810&v=4" width="100px;" alt="kkrypt0nn"/><br /><sub><b>kkrypt0nn</b></sub></a><br /><td align="center"><a href="https://github.com/zzckrian"><img src="https://avatars.githubusercontent.com/u/73385616?s=400&v=4" width="100px;" alt="zzckrian"/><br /><sub><b>zzckrian</b></sub></a><br /></table>
