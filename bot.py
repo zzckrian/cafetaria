@@ -1,9 +1,17 @@
 """"
-Copyright © Krypton 2020 - https://github.com/kkrypt0nn
-Description:
-This is a template to create your own discord bot in python.
-
-Version: 2.0
+ ________  ________  ________ _______  _________  ________  ________  ___  ________     
+|\   ____\|\   __  \|\  _____\\  ___ \|\___   ___\\   __  \|\   __  \|\  \|\   __  \    
+\ \  \___|\ \  \|\  \ \  \__/\ \   __/\|___ \  \_\ \  \|\  \ \  \|\  \ \  \ \  \|\  \   
+ \ \  \    \ \   __  \ \   __\\ \  \_|/__  \ \  \ \ \   __  \ \   _  _\ \  \ \   __  \  
+  \ \  \____\ \  \ \  \ \  \_| \ \  \_|\ \  \ \  \ \ \  \ \  \ \  \\  \\ \  \ \  \ \  \ 
+   \ \_______\ \__\ \__\ \__\   \ \_______\  \ \__\ \ \__\ \__\ \__\\ _\\ \__\ \__\ \__\
+    \|_______|\|__|\|__|\|__|    \|_______|   \|__|  \|__|\|__|\|__|\|__|\|__|\|__|\|__|
+                                                                                        
+                                                                                        
+                                                                                        
+                                        Cafetaria Bot v0.1
+                              Generated from kkrypt0nn Basic Py Bot
+                           © Copyright 2021 prrssr. All rights reserved.
 """
 
 import discord, asyncio, os, platform, sys
@@ -57,7 +65,7 @@ async def status_task():
 	while True:
 		await bot.change_presence(activity=discord.Game("with you!"))
 		await asyncio.sleep(60)
-		await bot.change_presence(activity=discord.Game("with Krypton!"))
+		await bot.change_presence(activity=discord.Game("with version 0.1"))
 		await asyncio.sleep(60)
 		await bot.change_presence(activity=discord.Game(f"{config.BOT_PREFIX} help"))
 		await asyncio.sleep(60)
