@@ -1,11 +1,5 @@
-# Updates List
-Here is the list of all the updates that I made on this template.
+# Updates List for Cafetaria
+Here is the list of all the updates!
 
-### Version 2.0
-* Added cogs
-* Added f-strings and removed `.format()`
-* Created [config file](config.py) for easier setup
-
-### Version 1.2
-* Added blacklist command
-* Removed commands cooldown
+### Version 1.0
+* Added Play Music Function
