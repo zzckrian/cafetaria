@@ -25,7 +25,9 @@ Make sure, pip version is latest.
 
 ## 💨 Run the projects
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/prrssr/cafetaria)  
-Repl.it: [![Run on Repl](https://camo.githubusercontent.com/4deb0e1fe2859b5e7359771d9b83dbeaafef4009c2f312df5b84bf9f6b0951c8/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f53756468616e506c61797a2f446973636f72642d4d75736963426f74)](https://repl.it/github.com/prrssr/cafetaria/) 
+
+Repl.it: [![Run on Repl](https://camo.githubusercontent.com/4deb0e1fe2859b5e7359771d9b83dbeaafef4009c2f312df5b84bf9f6b0951c8/68747470733a2f2f7265706c2e69742f62616467652f6769746875622f53756468616e506c61797a2f446973636f72642d4d75736963426f74)](https://repl.it/github.com/prrssr/cafetaria/)  
+
 Heroku: [![Deploy on Heroku](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://heroku.com/deploy?template=https://github.com/prrssr/cafetaria/) 
 ## Contributors
 <table><tr><td align="center"><a href="https://github.com/kkrypt0nn"><img src="https://avatars.githubusercontent.com/u/43011723?s=400&u=23cf7560d975a89f750fcc974f4565f6c9cfa810&v=4" width="100px;" alt="kkrypt0nn"/><br /><sub><b>kkrypt0nn</b></sub></a><br /><td align="center"><a href="https://github.com/zzckrian"><img src="https://avatars.githubusercontent.com/u/73385616?s=400&v=4" width="100px;" alt="zzckrian"/><br /><sub><b>zzckrian</b></sub></a><br /></table>
