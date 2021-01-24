@@ -2,8 +2,8 @@
 
 # ☕ Cafetaria Bot  
 
-[![](https://img.shields.io/badge/Status-Projecting-brightgreen)](https://github.com/prrssr/cafetaria)  
-[![](https://img.shields.io/badge/Build-Python-blue)](https://github.com/prrssr/cafetaria)  
+[![](https://img.shields.io/badge/Status-Projecting-brightgreen)](https://github.com/prrssr/cafetaria)
+[![](https://img.shields.io/badge/Build-Python-blue)](https://github.com/prrssr/cafetaria)
 [![](https://img.shields.io/badge/Version-0.1-red)](https://github.com/prrssr/cafetaria)
 
 > Have a suggestion? contact me.
