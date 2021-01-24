@@ -1,5 +1,7 @@
 async-timeout
 discord.py
+discord.py[voice]
 asyncio
 ffmpeg
 youtube_dl
+pip
