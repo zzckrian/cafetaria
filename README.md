@@ -18,6 +18,11 @@ Note : Make sure you have an self-hosting, like Glitch, REPL, or anything.
 *   Setting the configuration in `config.py`, fill all requirements.  
 *   All set, run the bot using `python bot.py`.  
 
+# Troubleshooting
+If the modules didnt install properly, please install it manual. Here is the packages:  
+`discord`,`discord.py`,`discord.py[voice]`,`youtube_dl`,`asyncio`  
+Make sure, pip version is latest.  
+
 ## 💨 Run the projects
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/prrssr/cafetaria)
 Repl: [![Run on Repl.it](https://repl.it/public/images/logo-small.png)](https://repl.it/github/prrssr/cafetaria)
