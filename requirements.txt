@@ -1,0 +1,5 @@
+async-timeout
+discord.py
+asyncio
+ffmpeg
+youtube_dl
