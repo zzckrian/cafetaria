@@ -17,6 +17,9 @@ Note : Make sure you have an self-hosting, like Glitch, REPL, or anything.
 *   Install the requirements `pip install -r requirements.txt`  
 *   Setting the configuration in `config.py`, fill all requirements.  
 *   All set, run the bot using `python bot.py`.  
-  
+
+## 💨 Run the projects
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/prrssr/cafetaria)
+Repl: [![Run on Repl.it](https://repl.it/public/images/logo-small.png)](https://repl.it/github/prrssr/cafetaria)
 ## Contributors
 <table><tr><td align="center"><a href="https://github.com/kkrypt0nn"><img src="https://avatars.githubusercontent.com/u/43011723?s=400&u=23cf7560d975a89f750fcc974f4565f6c9cfa810&v=4" width="100px;" alt="kkrypt0nn"/><br /><sub><b>kkrypt0nn</b></sub></a><br /><td align="center"><a href="https://github.com/zzckrian"><img src="https://avatars.githubusercontent.com/u/73385616?s=400&v=4" width="100px;" alt="zzckrian"/><br /><sub><b>zzckrian</b></sub></a><br /></table>
