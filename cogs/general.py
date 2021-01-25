@@ -12,15 +12,15 @@ class general(commands.Cog, name="general"):
     @commands.command(name="info", aliases=["botinfo"])
     async def info(self, context):
         embed = discord.Embed(
-            description="Used Krypton's template",
-            color=0x00FF00
+            description="Cafetaria v0.1 - Projecting",
+            color=0x6A0DAD
         )
         embed.set_author(
             name="Bot Information"
         )
         embed.add_field(
-            name="Owner:",
-            value="Krypton#2188",
+            name="Developer",
+            value="prrssr#5555, notallowedondiscord#5729",
             inline=True
         )
         embed.add_field(
