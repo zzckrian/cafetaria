@@ -15,7 +15,7 @@ class Help(commands.Cog, name="help"):
         embed = discord.Embed(
             title="Bot",
             description="List of commands are:",
-            color=0x00FF00
+            color=0x6A0DAD
         )
         embed.add_field(
             name="Invite",
